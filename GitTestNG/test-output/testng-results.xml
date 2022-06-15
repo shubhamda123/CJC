@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T15:57:00 IST" name="Default suite" finished-at="2022-06-15T15:57:11 IST" duration-ms="11394">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T15:57:00 IST" name="Default test" finished-at="2022-06-15T15:57:11 IST" duration-ms="11394">
+      <class name="com.cjc.MTlogin">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:56:56 IST" name="openBrowser" finished-at="2022-06-15T15:57:00 IST" duration-ms="3307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:00 IST" name="openUrl" finished-at="2022-06-15T15:57:07 IST" duration-ms="6856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="maximizePage()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:07 IST" name="maximizePage" finished-at="2022-06-15T15:57:07 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizePage -->
+        <test-method is-config="true" signature="pageLoadtimeOut()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:07 IST" name="pageLoadtimeOut" finished-at="2022-06-15T15:57:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoadtimeOut -->
+        <test-method signature="loginwithValidDetails()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:07 IST" name="loginwithValidDetails" finished-at="2022-06-15T15:57:10 IST" duration-ms="3436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidDetails -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:10 IST" name="CaptureScreenShot" finished-at="2022-06-15T15:57:11 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:11 IST" name="deleteCookies" finished-at="2022-06-15T15:57:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dataBaseClose()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:11 IST" name="dataBaseClose" finished-at="2022-06-15T15:57:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseClose -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.cjc.MTlogin@2f8dad04]" started-at="2022-06-15T15:57:11 IST" name="browserClose" finished-at="2022-06-15T15:57:12 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.cjc.MTlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
