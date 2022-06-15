@@ -31,6 +31,7 @@ public WebDriver driver;
 		System.out.println("OPen browser in BeforeSuite");
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\\\HP\\Downloads\\chrome exe for Selenium\\chromedriver.exe");
 		driver=new ChromeDriver();
+		System.out.println("this is testng");
 	}
 	
 	@BeforeTest
