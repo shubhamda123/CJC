@@ -27,6 +27,7 @@ public WebDriver driver;
 	@BeforeSuite
 	public void openBrowser()
 	{
+		System.out.println("Helllooooooo");
 		System.out.println("OPen browser in BeforeSuite");
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\\\HP\\Downloads\\chrome exe for Selenium\\chromedriver.exe");
 		driver=new ChromeDriver();
