@@ -1,0 +1,45 @@
+	<html>
+<head>
+
+<b><u>Login</u></b>
+</head>
+<br>
+<body>
+<form action="logi.action" id="headerlogin">
+<div class="container">
+<label for="uname"> 
+<b>Username</b>
+</label>
+<input type="text" id="uid" name="uname" class="username" placeholder="Enter Username" value="" required="required">
+<br>
+<br>
+<label for="password"> 
+<b>Password</b>
+</label>
+<input type="password" id="pid" name="pass" class="pass" placeholder="Enter password" value="" required="required">
+<br>
+<br>
+
+<select id="browser">
+<option value="chrome">Chrome</option> 
+<option value="ie">Internet Explore</option> 
+<option value="firefox">Firefox</option> 
+</select>
+<br>
+<br>
+
+<label> 
+<input type="checkbox"   id="remem" name="remember" class="rem" >Remember Me
+</label>
+
+<button type="submit"  id="login" name="login" class="login"  onclick="alert('Login Success')" >Login</button>
+</div>
+<div class="imgcontainer">
+<button type="button"  id="cancel"  class="cancel">Cancel</button>
+
+<span class="password">Forget <a href="forgetpass">Password?</a> </span>
+
+</div>
+</form>
+</body>
+</html>

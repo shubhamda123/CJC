@@ -1,0 +1,34 @@
+https://www.facebook.com
+https://demo.guru99.com/test/newtours/index.php
+http://demowebshop.tricentis.com/register
+https://petstore.octoperf.com/actions/Account.action?newAccountForm=
+https://www.demoblaze.com/
+http://automationpractice.com/index.php
+
+"http://mrbool.com/        ----Action class
+amazon mouse over
+
+https://jqueryui.com/droppable/      ---drag and drop
+https://demo.guru99.com/test/simple_context_menu.html    --double click
+https://swisnl.github.io/jQuery-contextMenu/demo.html    ---contextclick(right click)
+https://javascript.info/mouse-drag-and-drop -- frame
+
+alert popup
+https://demoqa.com/alerts  ---alert  task
+http://demo.guru99.com/test/delete_customer.php  --alert
+https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summary.html
+
+calender handling
+http://demo.automationtesting.in/Datepicker.html  ------calender handling
+https://www.globalsqa.com/demo-site/datepicker/
+https://www.redbus.in/
+
+Multiple Window handling
+all hyperlink find - https://rahulshettyacademy.com/AutomationPractice/
+https://www.naukri.com/      --- cookies   
+ https://www.amazon.in/    ----cookies
+
+
+
+
+
